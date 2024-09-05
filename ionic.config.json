@@ -1,0 +1,7 @@
+{
+  "name": "Myduoc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
